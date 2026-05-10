@@ -21,7 +21,7 @@ void init_random(int array[], int size, int a, int b) {
 
 	if (a > b) {
 		int t = a;
-		a = b;
+		a = b; 
 		b = t;
 	}
 
